@@ -24,7 +24,7 @@ export default props => {
             Recibe tu Tarjeta de Débito Virtual por correo electrónico y
             compra en línea desde el primer día 
           </p>
-          <a href='https://www.lafise.com/blh' className="btnsection3">¡Solicítala hoy!</a>
+          <a href='https://www.lafise.com/blh/banca-personal/cuenta-avanza/solicitud-en-linea' className="btnsection3">¡Solicítala hoy!</a>
         </div>
       </div>
     </article>

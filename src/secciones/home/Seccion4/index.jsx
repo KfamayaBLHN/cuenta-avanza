@@ -20,7 +20,6 @@ export default props => {
           <ul className="list-unstyled list-bullet-check mb-0">
             <li>Correo electrónico válido</li>
             <li>DNI o pasaporte hondureño vigente</li>
-            <li>Carnet de residencia, en caso de ser extranjero</li>
             <li>Ser mayor de 18 años</li>
             <li>Apertura desde L1,000 o $100</li>
           </ul>

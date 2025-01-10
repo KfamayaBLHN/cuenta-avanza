@@ -14,13 +14,13 @@ const Banner = () => {
           Da el primer paso para cumplir tus sueños,&nbsp;<br/>
           solicítala en lempiras y dólares de manera rápida y segura 
         </p>
-        <a href='https://www.lafise.com/blh' className="btn btn-light btn-lg mt-3">¡Abrir mi cuenta!</a>
+        <a href='https://www.lafise.com/blh/banca-personal/cuenta-avanza/solicitud-en-linea' className="btn btn-light btn-lg mt-3">¡Abrir mi cuenta!</a>
       </div>
       <div className="d-sm-block d-md-none">
         <p className="h4 text-gray pt-1 fw-normal">
           Da el primer paso para cumplir tus sueños, solicítala en lempiras y dólares de manera rápida y segura 
         </p>
-        <a href='https://www.lafise.com/blh' className="btn btn-light btn-lg mt-3">¡Abrir mi cuenta!</a>
+        <a href='https://www.lafise.com/blh/banca-personal/cuenta-avanza/solicitud-en-linea' className="btn btn-light btn-lg mt-3">¡Abrir mi cuenta!</a>
       </div>
     </Hero>
   );
