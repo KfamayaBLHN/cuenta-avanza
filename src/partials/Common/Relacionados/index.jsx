@@ -1,7 +1,6 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import Disfruta from './Disfruta';
-import Apertura from './Apertura';
+import Recibe from './Recibe';
 import Acumula from './Acumula';
 import Accede from './Accede';
 import Compra from './Compra';
@@ -50,19 +49,16 @@ const Cards = props => {
               <Obten />
             </Item>
             <Item>
-              <Apertura />
+              <Acumula />
             </Item>
             <Item>
-              <Disfruta />
+              <Recibe />
             </Item>
             <Item>
               <Accede />
             </Item>
             <Item>
               <Compra />
-            </Item>
-            <Item>
-              <Acumula />
             </Item>
           </Carousel>
         </>

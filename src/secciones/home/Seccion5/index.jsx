@@ -30,8 +30,8 @@ export default props => {
                 por lo cual asegúrate de que sea exacta y precisa, para que la recibas en persona.</p>
             </Accordion.Item>
 
-            <Accordion.Item label="¿Puedo hacer transferencia a otros bancos?" index={3}>
-              <p>Sí, por medio de Bancanet puedes hacer transferencias a cualquier banco local por ACH o a cuentas LAFISE.</p>
+            <Accordion.Item label="¿Qué opciones tengo para transferir dinero?" index={3}>
+              <p>Tienes diferentes opciones, puedes hacer transferencias entre cuentas propias, a otras cuentas LAFISE o por medio de ACH a otros bancos.</p>
             </Accordion.Item>
         
           </Accordion>

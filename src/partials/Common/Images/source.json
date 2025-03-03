@@ -24,13 +24,19 @@
     "h": 157
   },
   "CompraSvg": {
-    "src": "/imagenes/icons/ICN_05_Compra_Online_CAA_BLHN.svg",
+    "src": "/imagenes/icons/icn-02-compra-caa-blhn-1x.svg", 
     "alt": "Compra de divisas en línea",
     "w": 157,
     "h": 157
   },
   "AcumulaSvg": {
     "src": "/imagenes/icons/ICN_06_Acumula_Points_CAA_BLHN.svg",
+    "alt": "Acumula puntos por compras",
+    "w": 157,
+    "h": 157
+  },
+  "RecibeSvg": {
+    "src": "/imagenes/icons/ICN_05_Compra_Online_CAA_BLHN.svg",
     "alt": "Acumula puntos por compras",
     "w": 157,
     "h": 157

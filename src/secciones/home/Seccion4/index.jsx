@@ -18,11 +18,10 @@ export default props => {
         <div className="col-12 col-md-5">
           <h2 className="h2">Requisitos para abrir tu Cuenta Ahorro Avanza</h2>
           <ul className="list-unstyled list-bullet-check mb-0">
-            <li>Correo electrónico válido</li>
-            <li>DNI o pasaporte hondureño vigente</li>
-            <li>Carnet de residencia, en caso de ser extranjero</li>
             <li>Ser mayor de 18 años</li>
-            <li>Apertura desde L1,000 o $100</li>
+            <li>DNI o pasaporte hondureño vigente</li>
+            <li>Una selfie para validar tu identidad</li>
+            <li>Monto de apertura desde L1,000 o $100</li>
           </ul>
         </div>
         <div className="col-12 col-md-5 text-center imag">
