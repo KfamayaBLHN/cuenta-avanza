@@ -11,7 +11,7 @@ export default props => {
         Acumula
       </h3>
       <p className="pb-2">
-        puntos por tus compras y canjéalos
+        puntos por tus compras
       </p>
     </CardBody>
   </Card>
