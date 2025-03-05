@@ -282,7 +282,7 @@ section {
 }
 
 .bg-gradient-primary {
-  background: linear-gradient(180deg, #33BA75 0%, #018765 100%);
+  background: linear-gradient(180deg, #33ba75, #00583c);
 }
 
 @media (min-height: 728px) {

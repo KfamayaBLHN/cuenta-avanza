@@ -1,0 +1,74 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/LandingHeader/landingHeader.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/**
+  Declaración de las variables y mixins
+*/
+/*
+ * Descripción: Utilizado para crear iconos simples
+ */
+/*
+  Descripción: Utilizado para crear iconos que están contenidos en un círculo
+  Parametros:
+  $name: nombre de la clase del icono
+  $cSize: ( circle size) Tamaño del círculo contenedor del icono
+  $cBG: (circle background) Código de color usado por el círculo contenedor del icono
+  $iW: (icon width) Ancho del icono 
+  $iH: (icon height) Alto del icono 
+  $iUrl: (icon Url) Url de la imagen del icono
+*/
+header .landingHeader_logo-content__HNisa {
+  background-color: #00583C;
+}
+
+header .landingHeader_disclaimer__1MFZ0 {
+  background-color: #F4F4F4;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+header .landingHeader_disclaimer__1MFZ0 .landingHeader_icono-candado__iNedL {
+  margin-right: 8px;
+}
+header .landingHeader_disclaimer__1MFZ0 span {
+  font-size: 12px;
+  line-height: 16px;
+  color: #4d4d4d;
+}
+
+.landingHeader_icono-candado__iNedL {
+  width: 10px;
+  height: 12px;
+  background: url(/_next/static/media/icono-candado.41abc219.svg) no-repeat center center;
+  display: inline-block;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./src/components/LandingFooter/landingFooter.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@charset "UTF-8";
+/**
+  Declaración de las variables y mixins
+*/
+/*
+ * Descripción: Utilizado para crear iconos simples
+ */
+/*
+  Descripción: Utilizado para crear iconos que están contenidos en un círculo
+  Parametros:
+  $name: nombre de la clase del icono
+  $cSize: ( circle size) Tamaño del círculo contenedor del icono
+  $cBG: (circle background) Código de color usado por el círculo contenedor del icono
+  $iW: (icon width) Ancho del icono 
+  $iH: (icon height) Alto del icono 
+  $iUrl: (icon Url) Url de la imagen del icono
+*/
+.landingFooter_footer__2TW3C {
+  background: linear-gradient(180deg, #00583c, #00583c);
+  padding-top: 22px;
+  padding-bottom: 62px;
+}
+.landingFooter_footer__2TW3C span {
+  font-size: 12px;
+  line-height: 16px;
+  color: #fff;
+}
